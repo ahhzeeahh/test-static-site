@@ -1,0 +1,86 @@
+
+.bold{ text-decoration: bold;
+	font-weight: 525;
+
+}
+
+footer{color: blue:}
+
+
+.accent{background: #744f28;
+border-color: #6B4B0B;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+    color: #fff;
+    background-color: #F7BD4A!important;
+    border-color: #F7BD4A!important;
+}
+/** concats send button beloow**/
+
+.btn-primary {
+    background: #744f28;
+border-color: #6B4B0B;}
+
+
+a:hover{ color: #F7BD4A;
+}
+
+.post-preview>a:focus, .post-preview>a:hover {
+    text-decoration: none;
+    color: #F7BD4A;}
+
+#mainNav.is-fixed {
+    position: fixed;
+    top: -67px;
+    transition: transform .2s;
+    border: #744f28;
+   
+    background-color: rgba(184,131,19,.9);
+}
+
+#mainNav.is-fixed .navbar-nav>li.nav-item>a:focus, #mainNav.is-fixed .navbar-nav>li.nav-item>a:hover {
+    color: #fff;
+}
+
+.right{float: right;
+	text-align: right;
+	font-weight: 200;
+	color: #443720;
+}
+
+.smol{font-weight: 10;
+font-size: 11px;
+}
+
+.space{
+	padding-right: 25px;
+}
+
+.wrap{
+float: left;
+padding-right: 15px;
+}
+
+.pad{padding-left: 25px;}
+
+.smoll{font-weight: 25;
+font-size: 15px;}
+
+
+
+
+.up{text-decoration: none;
+	color: #84827F;
+
+}
+
+.up:hover{text-decoration: none;
+	color: #F7BD4A;
+
+}
+a.up:visited{
+	color: #84827F;}
+
+
+
